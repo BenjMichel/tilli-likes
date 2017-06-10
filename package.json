@@ -1,0 +1,13 @@
+{
+  "name": "tilli-likes",
+  "scripts": {
+    "start": "micro index"
+  },
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "likes": "^1.0.0",
+    "micro": "latest",
+    "micro-cors": "^0.0.4"
+  }
+}
